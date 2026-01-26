@@ -1,4 +1,4 @@
-# 🐍 100 Days of Code: The Python Journey <img src="https://skillicons.dev/icons?i=py,vscode" />
+# 100 Days of Code: The Python Journey <img src="https://skillicons.dev/icons?i=py,vscode" />
 
 Welcome to my daily log of the **100 Days of Code** challenge. This repository serves as a technical chronicle of my transition into high-level Python development, focusing on automation, logic architecture, and efficient code design.
 
